@@ -1,28 +1,344 @@
 [
   {
     "id": 1,
-    "title": "USUARIOS TARJETA DEBITO Y CREDITO",
+    "title": "User Persona: Tarjeta Débito y Tarjeta Crédito",
     "date": "2025-12",
-    "type": "Encuestas",
+    "type": "Mixto",
     "category": "Payments",
-    "tags": ["Tarjetas", "Cuenta", "Usabilidad"],
-    "summary": "Entender el comportamiento financiero de los comercios que usan Bold, enfoque en TD y TC",
+    "tags": ["Tarjeta", "User Persona"],
+    "summary": "Cuál es la percepción, uso y nivel de entendimiento de la tarjeta débito Business Mastercard de Bold.",
     "highlights": [
-      "Flexibilidad",
-      "Seguridad",
-      "Ecosistema"
+      "Seguridad como factor determinante en la adopción",
+      "Manejo del dinero como motivación principal de uso"
     ],
     "status": "done",
-    "url": "https://docs.google.com/presentation/d/1wJIU-RYA7SByVAP75HHyqsH30QrkGRQaZM6S4lyjPNs/edit?slide=id.g37a8379a340_1_4094#slide=id.g37a8379a340_1_4094"
+    "url": "https://docs.google.com/presentation/d/1wJIU-RYA7SByVAP75HHyqsH30QrkGRQaZM6S4lyjPNs/edit?slide=id.g37a8379a340_1_1519#slide=id.g37a8379a340_1_1519"
   },
   {
     "id": 2,
-    "title": "USER PERSONA CUENTA PRO",
+    "title": "Defining QR Bold",
+    "date": "2025-08",
+    "type": "Mixto",
+    "category": "Banking",
+    "tags": ["QR", "Benchmark"],
+    "summary": "Entender el ambiente competitivo y el usuario de QR.",
+    "highlights": [
+      "Tendencia creciente en adopción de pagos QR",
+      "Funcionalidad como diferenciador clave"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/1-qPquJnpztI6-PU-CRiNyU-LM5vBY-Zqn1FyfN8f9Jg/edit?slide=id.g2d8a2fbf52c_0_2169#slide=id.g2d8a2fbf52c_0_2169"
+  },
+  {
+    "id": 3,
+    "title": "Activación Canal Inbound: Datáfonos",
+    "date": "2025-01",
+    "type": "Mixto",
+    "category": "Payments",
+    "tags": ["Inbound", "Activación", "Datáfonos"],
+    "summary": "Entender el proceso interno de activación y encontrar patrones, dolores y frustraciones.",
+    "highlights": [
+      "Sencillez como expectativa principal del usuario",
+      "Dolores identificados en el flujo de activación",
+      "Falta de claridad en las instrucciones del proceso"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/1Kr2dJmpc3MPpOz-GWTmd3K1TUCitMXmQvW1uSpx63us/edit?slide=id.g31c524fa4ed_0_665#slide=id.g31c524fa4ed_0_665"
+  },
+  {
+    "id": 4,
+    "title": "Sono QR",
+    "date": "2025-10",
+    "type": "Encuesta",
+    "category": "Payments",
+    "tags": ["Sono", "QR", "Negocio"],
+    "summary": "Percepción del Sono QR dividido por segmentos de usuarios.",
+    "highlights": [
+      "Rapidez como atributo más valorado",
+      "Facilidad de uso destacada por los comercios",
+      "Seguridad percibida como fortaleza del producto"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/1pA91et--_l4nSIXcqoFwbavx0i2S0SIy6g8kt7buy3E/edit?slide=id.g37e2361fe92_0_0#slide=id.g37e2361fe92_0_0"
+  },
+  {
+    "id": 5,
+    "title": "User Persona: Smart y Smart Pro",
+    "date": "2025-11",
+    "type": "Encuesta",
+    "category": "Payments",
+    "tags": ["Datáfono", "Smart", "Smart Pro"],
+    "summary": "Entender quiénes son los usuarios de los datáfonos Smart y Smart Pro.",
+    "highlights": [
+      "Perfil 'Como los grandes': comercios en crecimiento",
+      "Perfil 'Hermano del medio': comercios intermedios",
+      "Facilidad y practicidad como drivers principales"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/1a6d63U0YnI6VEXItO9Ijl7fh4kY9uhCGefewky0o9K8/edit?slide=id.g3a7ed566199_0_0#slide=id.g3a7ed566199_0_0"
+  },
+  {
+    "id": 6,
+    "title": "User Persona: Link de Pago",
     "date": "2026-02",
     "type": "Encuesta",
+    "category": "Payments",
+    "tags": ["Link", "Pasarela"],
+    "summary": "Análisis comparativo de situaciones de uso, fricciones, valor percibido y oportunidades de crecimiento para cada segmento.",
+    "highlights": [
+      "Jobs to be done identificados por segmento",
+      "Análisis de comportamiento y patrones de uso",
+      "Oportunidades en SEO y mejoras de UX"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/1hwbM6WecZcb0h97ELAkT0Br9cxl5tKF_3YyvLP2sDz0/edit?slide=id.g395748256a0_0_2961#slide=id.g395748256a0_0_2961"
+  },
+  {
+    "id": 7,
+    "title": "Consumers: Cuenta y Bolsillos",
+    "date": "2025-11",
+    "type": "Mixto",
     "category": "Banking",
-    "tags": ["UP", "JBD"],
-    "summary": "User persona de cuentas empresariales.",
+    "tags": ["Cuenta", "Bolsillos", "Consumers"],
+    "summary": "Entender qué factores determinan la percepción, uso, satisfacción y decisión de apertura o cierre de cuentas bancarias.",
+    "highlights": [
+      "Facilidad y seguridad como factores decisivos",
+      "Confianza en la marca como driver de apertura",
+      "Rentabilidad como motivador de permanencia"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/1RFaLXBSc6BHL1nRXmywGYevJgRMIfRbT6ZpMCjpwSVQ/edit?slide=id.g363b8ef91bf_0_0#slide=id.g363b8ef91bf_0_0"
+  },
+  {
+    "id": 8,
+    "title": "CDT y Ahorro",
+    "date": "2025-12",
+    "type": "Entrevistas",
+    "category": "Banking",
+    "tags": ["CDT", "Drivers", "Ahorro"],
+    "summary": "Entender los drivers de uso de CDT y las tensiones que tienen hoy en día.",
+    "highlights": [
+      "CDT percibido como 'salvavidas' financiero",
+      "Función de 'caja fuerte' como motivación principal"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/1hq4Nd4XO6yBsgnve347yo0Z-he_5Zj5Mmp5HZMsr1dE/edit?slide=id.g3656c0b0d36_0_9#slide=id.g3656c0b0d36_0_9"
+  },
+  {
+    "id": 9,
+    "title": "Pay In 4",
+    "date": "2025-01",
+    "type": "Encuesta",
+    "category": "Banking",
+    "tags": ["Pay in 4", "Crédito", "Tipología"],
+    "summary": "Entender a profundidad quién es el usuario real para este nuevo producto y validar si esta solución tiene la fuerza necesaria para convertir a Bold en su cuenta principal.",
+    "highlights": [
+      "Producto percibido como 'amortiguador' financiero",
+      "Tipología de usuarios definida",
+      "Bolsillos como funcionalidad complementaria clave"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/18qUVz3jmoYYqPzM4AJIDu_otK8kaPTW3QHFmJ8PbXEs/edit?slide=id.g392c1fc69b6_0_9#slide=id.g392c1fc69b6_0_9"
+  },
+  {
+    "id": 10,
+    "title": "Super App y Super Panel",
+    "date": "2025-10",
+    "type": "Mixto",
+    "category": "Software",
+    "tags": ["Super App", "Super Panel", "Usabilidad"],
+    "summary": "Entender los comportamientos, motivaciones, necesidades y fricciones que tienen los dueños y usuarios de los comercios al utilizar el Panel y la app de Bold.",
+    "highlights": [
+      "Value prop clara para comercios",
+      "Oportunidades de optimización identificadas",
+      "Engagement como métrica clave a mejorar"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/1fxUhUxPSmJ1zt9ae8G0xdLhCdgslr_RVFSZcpwlHhjQ/edit?slide=id.g366a4703955_0_0#slide=id.g366a4703955_0_0"
+  },
+  {
+    "id": 11,
+    "title": "Bold POS",
+    "date": "2025-08",
+    "type": "Mixto",
+    "category": "Software",
+    "tags": ["POS", "Software", "Usuarios"],
+    "summary": "Entender la percepción de nuestros productos en micro y nano vs SMBs.",
+    "highlights": [
+      "Diferencias claras en percepción POS por segmento",
+      "Benchmark competitivo como referencia"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/17zEXcyfCnVolQLUqxWgeDcn1Emesy5b5WUpGvSlYrQo/edit?slide=id.g3423a939d73_0_0#slide=id.g3423a939d73_0_0"
+  },
+  {
+    "id": 12,
+    "title": "Competencia Bold POS",
+    "date": "2025-10",
+    "type": "Encuesta",
+    "category": "Software",
+    "tags": ["POS", "Software", "Competencia"],
+    "summary": "Comprender de manera integral la experiencia, percepciones y necesidades de los comerciantes en relación con sus sistemas de punto de venta (POS) actuales.",
+    "highlights": [
+      "Análisis POS de la competencia",
+      "Benchmark de funcionalidades y satisfacción"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/16uckNbxcbE_MblnSQEEMouotteH8jcwsqwHldAjO4W4/edit?slide=id.g38e013a5b6e_0_323#slide=id.g38e013a5b6e_0_323"
+  },
+  {
+    "id": 13,
+    "title": "Usuarios: SMB",
+    "date": "2025-01",
+    "type": "Mixto",
+    "category": "Consumers",
+    "tags": ["Usuarios", "SMB"],
+    "summary": "Quiénes son nuestros comercios SMB: perfil, comportamientos y necesidades.",
+    "highlights": [
+      "Tipología de comercios SMB definida",
+      "Crecimiento como motivador principal"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/1drIkfJb0AdxNFDDAVo5GmrxN0FTzW8qHXPTsgxXBYTg/edit?slide=id.g2d403e5c606_0_232#slide=id.g2d403e5c606_0_232"
+  },
+  {
+    "id": 14,
+    "title": "Comercios con OB sin 1era TX",
+    "date": "2025-11",
+    "type": "Mixto",
+    "category": "Consumers",
+    "tags": ["Onboarding", "Comercios", "TX"],
+    "summary": "Entender la razón por la cual aquellos usuarios que hacen el onboarding no realizan su primera transacción.",
+    "highlights": [
+      "Falta de conocimiento del producto post-registro",
+      "Intención vs acción: brecha identificada"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/1LBZwXWAyKWqgYSedTNPG67GMLkdQb6aNLy8a48uN_6M/edit?slide=id.g389e38a98d0_0_0#slide=id.g389e38a98d0_0_0"
+  },
+  {
+    "id": 15,
+    "title": "Salud de Marca",
+    "date": "2026-01",
+    "type": "Encuesta",
+    "category": "Consumers",
+    "tags": ["Salud", "Marca", "Bold"],
+    "summary": "Conocer la salud de marca de Bold en función de variables de conocimiento y experiencia.",
+    "highlights": [
+      "Niveles de conocimiento de marca medidos",
+      "Top of Mind (TOM) y Top of Heart (TOH) analizados"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/1w8KNsCIldUdSwY_k-Y_dANSSKipNwfBj/edit?slide=id.p3#slide=id.p3"
+  },
+  {
+    "id": 16,
+    "title": "Discovery Comercios Perú",
+    "date": "2026-02",
+    "type": "Entrevistas",
+    "category": "Peru",
+    "tags": ["Perú", "Percepciones", "Dolores", "Vacíos"],
+    "summary": "Entender el mercado de negocios micro y nano en Perú de cara al lanzamiento de Bold.",
+    "highlights": [
+      "Dolores principales del comerciante peruano",
+      "Vacíos de mercado identificados",
+      "Oportunidades en POS para el mercado peruano"
+    ],
+    "status": "done",
+    "url": "https://docs.google.com/presentation/d/1uBjZnmzhorxX9H52mvP8WnKURZ6bURsdhHRei8lNtvY/edit?slide=id.g3c7aaf0bcd4_0_64#slide=id.g3c7aaf0bcd4_0_64"
+  },
+  {
+    "id": 17,
+    "title": "User Persona: Cuenta Pro",
+    "date": "2026-01",
+    "type": "Encuesta",
+    "category": "Banking",
+    "tags": ["User Persona", "Cuenta Pro", "Cuenta Empresarial"],
+    "summary": "User persona centrado en usuarios de cuentas empresariales, siguiendo la metodología aplicada en Smart y Smart Pro.",
+    "highlights": [],
+    "status": "pending",
+    "url": null
+  },
+  {
+    "id": 18,
+    "title": "User Persona: Crédito",
+    "date": "2026-01",
+    "type": "Encuesta",
+    "category": "Banking",
+    "tags": ["User Persona", "Crédito"],
+    "summary": "User persona de usuarios con usabilidad de los diferentes créditos en Colombia.",
+    "highlights": [],
+    "status": "pending",
+    "url": null
+  },
+  {
+    "id": 19,
+    "title": "Consumers",
+    "date": "2026-01",
+    "type": "Encuesta",
+    "category": "Consumers",
+    "tags": ["User Persona", "Consumers"],
+    "summary": "Entender a fondo la categoría de consumers.",
+    "highlights": [],
+    "status": "pending",
+    "url": null
+  },
+  {
+    "id": 20,
+    "title": "Usuarios Enterprise",
+    "date": "2026-01",
+    "type": "Encuesta",
+    "category": "Consumers",
+    "tags": ["Enterprise", "Usuarios"],
+    "summary": "Entender a fondo los usuarios enterprise de Bold.",
+    "highlights": [],
+    "status": "pending",
+    "url": null
+  },
+  {
+    "id": 21,
+    "title": "User Persona: Botón de Pago",
+    "date": "2026-01",
+    "type": "Encuesta",
+    "category": "Payments",
+    "tags": ["Botón de Pago", "Pasarela", "User Persona"],
+    "summary": "Entender a fondo los usuarios de botón de pago de Bold.",
+    "highlights": [],
+    "status": "pending",
+    "url": null
+  },
+  {
+    "id": 22,
+    "title": "User Persona: Bold POS",
+    "date": "2026-01",
+    "type": "Encuesta",
+    "category": "Software",
+    "tags": ["User Persona", "Bold POS"],
+    "summary": "Entender a fondo los usuarios de Bold POS y crear sus Jobs to be Done.",
+    "highlights": [],
+    "status": "pending",
+    "url": null
+  },
+  {
+    "id": 23,
+    "title": "Recibir y Enviar Pagos al Exterior",
+    "date": "2026-01",
+    "type": "Encuesta",
+    "category": "Producto",
+    "tags": ["Wallet", "Transferencia", "Internacional"],
+    "summary": "Qué necesitan o requieren los usuarios para pagos y transferencias al exterior.",
+    "highlights": [],
+    "status": "pending",
+    "url": null
+  },
+  {
+    "id": 24,
+    "title": "Tarjeta Débito en Wallet + Consumers",
+    "date": "2026-01",
+    "type": "Encuesta",
+    "category": "Producto",
+    "tags": ["Tarjeta Débito", "Wallet", "Transferencia"],
+    "summary": "Investigación sobre el uso y percepción de la tarjeta débito dentro del ecosistema Wallet y segmento Consumers.",
     "highlights": [],
     "status": "pending",
     "url": null
