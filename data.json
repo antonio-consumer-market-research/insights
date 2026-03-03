@@ -342,5 +342,17 @@
     "highlights": [],
     "status": "pending",
     "url": null
+  },
+  {
+    "id": 25,
+    "title": "Tap on Phone",
+    "date": "2026-01",
+    "type": "Encuesta",
+    "category": "Payments",
+    "tags": ["Phone", "Tap"],
+    "summary": "Identificar los detonantes (drivers) y barreras tanto del comercio como del consumidor para adoptar el pago por celular.",
+    "highlights": [],
+    "status": "pending",
+    "url": null
   }
 ]
