@@ -1,28 +1,28 @@
 [
   {
     "id": 1,
-    "title": "TÍTULO DE TU INVESTIGACIÓN TERMINADA",
-    "date": "2025-11",
-    "type": "Entrevistas",
-    "category": "Banking",
-    "tags": ["Tag1", "Tag2", "Tag3"],
-    "summary": "Escribe aquí un resumen corto de 1-2 líneas sobre la investigación.",
+    "title": "USUARIOS TARJETA DEBITO Y CREDITO",
+    "date": "2025-12",
+    "type": "Encuestas",
+    "category": "Payments",
+    "tags": ["Tarjetas", "Cuenta", "Usabilidad"],
+    "summary": "Entender el comportamiento financiero de los comercios que usan Bold, enfoque en TD y TC",
     "highlights": [
-      "Hallazgo clave 1",
-      "Hallazgo clave 2",
-      "Hallazgo clave 3"
+      "Flexibilidad",
+      "Seguridad",
+      "Ecosistema"
     ],
     "status": "done",
-    "url": "https://link-a-tu-presentacion.com"
+    "url": "https://docs.google.com/presentation/d/1wJIU-RYA7SByVAP75HHyqsH30QrkGRQaZM6S4lyjPNs/edit?slide=id.g37a8379a340_1_4094#slide=id.g37a8379a340_1_4094"
   },
   {
     "id": 2,
-    "title": "TÍTULO DE INVESTIGACIÓN PENDIENTE",
-    "date": "2026-01",
+    "title": "USER PERSONA CUENTA PRO",
+    "date": "2026-02",
     "type": "Encuesta",
-    "category": "Payments",
-    "tags": ["Tag1", "Tag2"],
-    "summary": "Resumen corto de lo que se planea investigar.",
+    "category": "Banking",
+    "tags": ["UP", "JBD"],
+    "summary": "User persona de cuentas empresariales.",
     "highlights": [],
     "status": "pending",
     "url": null
