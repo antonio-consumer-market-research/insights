@@ -354,5 +354,17 @@
     "highlights": [],
     "status": "pending",
     "url": null
+  },
+  {
+    "id": 26,
+    "title": "CDT",
+    "date": "2026-01",
+    "type": "Encuesta",
+    "category": "Banking",
+    "tags": ["User Persona", "CDT"],
+    "summary": "entender nuestros inversionistas actuales (principalmente los de CDT) que mas necesitan en la cuenta Bold que no solo sea Rentabilidad.",
+    "highlights": [],
+    "status": "pending",
+    "url": null
   }
 ]
