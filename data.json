@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "TÍTULO DE TU INVESTIGACIÓN TERMINADA",
+    "date": "2025-11",
+    "type": "Entrevistas",
+    "category": "Banking",
+    "tags": ["Tag1", "Tag2", "Tag3"],
+    "summary": "Escribe aquí un resumen corto de 1-2 líneas sobre la investigación.",
+    "highlights": [
+      "Hallazgo clave 1",
+      "Hallazgo clave 2",
+      "Hallazgo clave 3"
+    ],
+    "status": "done",
+    "url": "https://link-a-tu-presentacion.com"
+  },
+  {
+    "id": 2,
+    "title": "TÍTULO DE INVESTIGACIÓN PENDIENTE",
+    "date": "2026-01",
+    "type": "Encuesta",
+    "category": "Payments",
+    "tags": ["Tag1", "Tag2"],
+    "summary": "Resumen corto de lo que se planea investigar.",
+    "highlights": [],
+    "status": "pending",
+    "url": null
+  }
+]
